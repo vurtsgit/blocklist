@@ -24,3 +24,7 @@ xdreams.online
 www.datetonight.xyz
 s385c8cbd7927e7ebc346a42f78e663b7.s.adsco.re
 ws.meethue.com
+diag.meethue.com
+data.meethue.com
+www.philips-hue.com
+
